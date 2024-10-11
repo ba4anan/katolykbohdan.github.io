@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[42],{318:function(n,o,w){n.exports=w.p+"img/in chair 100+20x30.98101c5.jpg"}}]);
